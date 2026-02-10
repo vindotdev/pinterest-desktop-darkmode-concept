@@ -6,3 +6,7 @@ I made this mostly for fun since the browser version of Pinterest doesn't have i
 
 **⚠️ Note**
 I don't claim any ownership of the photos used. I simply copied the ones from my personal feed to fill the space for photos.
+
+**🛠️ Things I want to add**
+- Add toggle for light/dark mode
+- Add feature to add own pictures
